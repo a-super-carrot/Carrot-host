@@ -1,0 +1,3 @@
+/home/carrot/Desktop/carrot-host/cmake-build-debug/CMakeFiles/carrot_host.dir
+/home/carrot/Desktop/carrot-host/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/carrot/Desktop/carrot-host/cmake-build-debug/CMakeFiles/rebuild_cache.dir

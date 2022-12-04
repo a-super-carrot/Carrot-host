@@ -1,0 +1,6 @@
+microsoft.com has address 20.81.111.85
+microsoft.com has address 20.53.203.50
+microsoft.com has address 20.112.52.29
+microsoft.com has address 20.84.181.62
+microsoft.com has address 20.103.85.33
+microsoft.com mail is handled by 10 microsoft-com.mail.protection.outlook.com.
